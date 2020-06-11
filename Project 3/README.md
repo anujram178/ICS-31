@@ -1,0 +1,1 @@
+Basic movie management system in python which allows user to enter informatioon about set of movies and then issue commands to edit or sort information about the movies.

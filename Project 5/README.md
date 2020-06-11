@@ -1,0 +1,1 @@
+Text adventure game where the player is in a virtual room (dungeon), and each room has text description associated with it. Player can move from room to room using compass directional commands and each room can contain items in it. The players can pick up or drop items in a room. Written in python.

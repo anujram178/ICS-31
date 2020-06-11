@@ -1,0 +1,1 @@
+Python program to model a series of stock market transactions over time. It allows user to buy and sell stocks on different days in the past and determine value of their portfolio based on real historical price data by reading from Amazon, Facebook, Google csv files.
